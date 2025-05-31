@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Collins Kigen",
+    "email": "ckigen.ck@gmail.com",
+    "phone": "+254717591918",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Currently employed at KEMRI/WRAIR-Africa. Head of Genomics and Bioinformatics",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "1357",
+      "postalCode": "20200",
+      "city": "Kericho",
+      "countryCode": "Kenya",
       "region": ""
     },
     "profiles": [
